@@ -23,17 +23,17 @@ Our web application takes an eye image and does all the heavy lifting:
 
 Below are a few screenshots from the web app and model outputs:
 
+### Architecture
+
+![Screenshot from 2025-06-27 08-57-57](https://github.com/user-attachments/assets/6da9584a-f71c-4322-b815-c296b708e590)
+
 ### Website Interface
 
-![image1](image1)
+![Screenshot from 2025-06-27 08-56-29](https://github.com/user-attachments/assets/8268817d-9876-4399-b2c5-49e1f90632a3)
 
 ### Example: Original vs Segmented Output
 
-![image2](image2)
-
-### Model Training Progress & Output
-
-![image3](image3)
+![Screenshot from 2025-06-27 08-47-24](https://github.com/user-attachments/assets/06f3887a-3419-493e-b14e-487839adbb50)
 
 ---
 
