@@ -131,11 +131,11 @@ You’ll see the web interface where you can upload an eye image and get instant
 ## 👏 Credits
 
 This project was created as part of the IIT Mandi Hackathon by the awesome team at :
-Pranjal Rai
-Khushal Bishnoi
-Alok Kumar Yadav
-Deepanshu
-Dhruv Singh Yadav
+-Pranjal Rai
+-Khushal Bishnoi
+-Alok Kumar Yadav
+-Deepanshu
+-Dhruv Singh Yadav
 Sharath Subramanya
 
 ---
